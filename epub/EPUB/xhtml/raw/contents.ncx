@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+
+<head>
+    <meta name="dtb:uid" content="urn:uuid:fef11c7f-8335-0377-50f8-baf687350474"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+</head>
+
+ <docTitle>
+      <text>Table of Contents</text>
+ </docTitle>
+    
+<navMap>
+    <navPoint id="ncx0" playOrder="1"><navLabel><text>Buod</text></navLabel><content src="setdde.xhtml"></content></navPoint><navPoint id="ncx1" playOrder="2"><navLabel><text>Talaan ng Nilalaman</text></navLabel><content src="szwkck.xhtml"></content></navPoint><navPoint id="ncx2" playOrder="3"><navLabel><text>Panimula (Malawak na Kadiliman)</text></navLabel><content src="sbbvlz.xhtml"></content></navPoint><navPoint id="ncx3" playOrder="4"><navLabel><text>Pangunahing Bahagi ng Kwento (Bugso ng Damdamin)</text></navLabel><content src="sstupw.xhtml"></content></navPoint><navPoint id="ncx4" playOrder="5"><navLabel><text>Pangunahing Bahagi ng Kwento (Kislap sa mga Mata)</text></navLabel><content src="szl89q.xhtml"></content></navPoint><navPoint id="ncx5" playOrder="6"><navLabel><text>Pangunahing Bahagi ng Kwento (Abutin ang Bituin)</text></navLabel><content src="sqyzhb.xhtml"></content></navPoint><navPoint id="ncx6" playOrder="7"><navLabel><text>Pangunahin Bahagi ng Kwento (Ang Ilaw sa Kadiliman)</text></navLabel><content src="s02df0.xhtml"></content></navPoint><navPoint id="ncx7" playOrder="8"><navLabel><text>Pagwawakas (Bughaw na Ulap)</text></navLabel><content src="s7rsxu.xhtml"></content></navPoint><navPoint id="ncx8" playOrder="9"><navLabel><text>Kilalanin ang mga May - Akda</text></navLabel><content src="swo63o.xhtml"></content></navPoint>
+</navMap>
+    
+</ncx>

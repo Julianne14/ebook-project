@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Munting Pangarap</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:fef11c7f-8335-0377-50f8-baf687350474</dc:identifier>
+        <meta name="cover" content="img16" />
+
+        <dc:creator>Julianne</dc:creator>
+        <dc:publisher>Julianne</dc:publisher>
+        <dc:rights>No rights specified</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>&lt;p&gt;Isang maikling storya na tatangkilikin ng lahat sapagkat ito&amp;#39;y puno ng mga paghihirap at pagdurusa ng mga karakter sa storya, ngunit ang lahat ng ito&amp;#39;y nalagpasan nila sa pamamagitan ng pagtutulungan at pagbibigay suporta ng bawat isa. Ano kaya ang masamang plano ng gobyerno para sa mga tao sa Siyudad ng Maynila? Halina&amp;#39;t samahan natin si Mashu at Hubert sa kanilang kapalaran patungo sa tuktok ng tagumpay!&amp;nbsp;&lt;/p&gt;
+</dc:description>
+        <meta property="dcterms:modified">2020-11-09T12:08:15Z</meta>
+        <meta property="rendition:layout">pre-paginated</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.6.8</meta>
+        <meta property="kotobee:build">1246</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/raw/setdde.xhtml" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/szwkck.xhtml" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/raw/sbbvlz.xhtml" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/raw/sstupw.xhtml" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/raw/szl89q.xhtml" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/raw/sqyzhb.xhtml" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/raw/s02df0.xhtml" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/raw/s7rsxu.xhtml" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/raw/swo63o.xhtml" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/1.jpg" media-type="image/jpeg"/>
+<item id="img1" href="imgs/a.gif" media-type="image/gif"/>
+<item id="img2" href="imgs/air-pollution.jpg" media-type="image/jpeg"/>
+<item id="img3" href="imgs/clapping.jpg" media-type="image/jpeg"/>
+<item id="img4" href="imgs/clapping01.jpg" media-type="image/jpeg"/>
+<item id="img5" href="imgs/defaultCover.png" media-type="image/png"/>
+<item id="img6" href="imgs/design.png" media-type="image/png"/>
+<item id="img7" href="imgs/design02.png" media-type="image/png"/>
+<item id="img8" href="imgs/design04.png" media-type="image/png"/>
+<item id="img9" href="imgs/design2.jpg" media-type="image/jpeg"/>
+<item id="img10" href="imgs/design3.jpg" media-type="image/jpeg"/>
+<item id="img11" href="imgs/design4.png" media-type="image/png"/>
+<item id="img12" href="imgs/design_4-removebg-01.png" media-type="image/png"/>
+<item id="img13" href="imgs/design_4-removebg-07.png" media-type="image/png"/>
+<item id="img14" href="imgs/design_4-removebg-pr.png" media-type="image/png"/>
+<item id="img15" href="imgs/ei1.jpg" media-type="image/jpeg"/>
+<item id="img16" href="imgs/ezgifcom-gif-maker.gif" properties="cover-image" media-type="image/gif"/>
+<item id="img17" href="imgs/help.jpg" media-type="image/jpeg"/>
+<item id="img18" href="imgs/help1.jpg" media-type="image/jpeg"/>
+<item id="img19" href="imgs/hiding.jpg" media-type="image/jpeg"/>
+<item id="img20" href="imgs/hiding01.jpg" media-type="image/jpeg"/>
+<item id="img21" href="imgs/muntingpangarap.png" media-type="image/png"/>
+<item id="img22" href="imgs/placeholder.jpg" media-type="image/jpeg"/>
+<item id="img23" href="imgs/placeholder03.jpg" media-type="image/jpeg"/>
+<item id="img24" href="imgs/placeholder05.jpg" media-type="image/jpeg"/>
+<item id="img25" href="imgs/poor.jpg" media-type="image/jpeg"/>
+<item id="img26" href="imgs/scene1.jpg" media-type="image/jpeg"/>
+<item id="img27" href="imgs/scene101.jpg" media-type="image/jpeg"/>
+<item id="img28" href="imgs/scene2.jpg" media-type="image/jpeg"/>
+<item id="img29" href="imgs/sleep.jpg" media-type="image/jpeg"/>
+<item id="img30" href="imgs/sleep3.jpg" media-type="image/jpeg"/>
+<item id="img31" href="imgs/sur.jpg" media-type="image/jpeg"/>
+<item id="img32" href="imgs/sur01.jpg" media-type="image/jpeg"/>
+<item id="img33" href="imgs/texture.jpg" media-type="image/jpeg"/>
+<item id="img34" href="imgs/texture02.jpg" media-type="image/jpeg"/>
+<item id="img35" href="imgs/texture03.jpg" media-type="image/jpeg"/>
+<item id="img36" href="imgs/thumbs/thumb_a.gif" media-type="image/gif"/>
+<item id="img37" href="imgs/thumbs/thumb_air-pollution.jpg" media-type="image/jpeg"/>
+<item id="img38" href="imgs/thumbs/thumb_clapping.jpg" media-type="image/jpeg"/>
+<item id="img39" href="imgs/thumbs/thumb_clapping01.jpg" media-type="image/jpeg"/>
+<item id="img40" href="imgs/thumbs/thumb_help.jpg" media-type="image/jpeg"/>
+<item id="img41" href="imgs/thumbs/thumb_help1.jpg" media-type="image/jpeg"/>
+<item id="img42" href="imgs/thumbs/thumb_poor.jpg" media-type="image/jpeg"/>
+<item id="img43" href="imgs/thumbs/thumb_scene1.jpg" media-type="image/jpeg"/>
+<item id="img44" href="imgs/thumbs/thumb_scene101.jpg" media-type="image/jpeg"/>
+<item id="img45" href="imgs/thumbs/thumb_scene2.jpg" media-type="image/jpeg"/>
+<item id="img46" href="imgs/thumbs/thumb_sleep.jpg" media-type="image/jpeg"/>
+<item id="img47" href="imgs/thumbs/thumb_sleep3.jpg" media-type="image/jpeg"/>
+<item id="img48" href="imgs/thumbs/thumb_sur.jpg" media-type="image/jpeg"/>
+<item id="img49" href="imgs/thumbs/thumb_sur01.jpg" media-type="image/jpeg"/>
+<item id="img50" href="imgs/thumbs/thumb_texture02.jpg" media-type="image/jpeg"/>
+<item id="img51" href="imgs/thumbs/thumb_thumb_scene101.jpg" media-type="image/jpeg"/>
+<item id="img52" href="imgs/thumbs/thumb_thumb_scene2.jpg" media-type="image/jpeg"/>
+<item id="img53" href="imgs/thumbs/thumb_thumb_thumb_sc.jpg" media-type="image/jpeg"/>
+<item id="img54" href="imgs/w22.jpg" media-type="image/jpeg"/>
+<item id="img55" href="imgs/worried.png" media-type="image/png"/>
+<item id="vid0" href="video/ei1.mp4" media-type="video/mp4"/>
+<item id="vid1" href="video/ei101.mp4" media-type="video/mp4"/>
+<item id="vid2" href="video/end.mp4" media-type="video/mp4"/>
+<item id="vid3" href="video/end01.mp4" media-type="video/mp4"/>
+<item id="vid4" href="video/hug.mp4" media-type="video/mp4"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html1" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html6" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html7" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>
